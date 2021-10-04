@@ -1,7 +1,24 @@
 Yuhang Yan
 
-
 This repo is a clone of https://github.com/nelaturuk/education_pathways
+
+
+
+## Functional Requirement
+
+Users should be able to search courses by instructor's name.
+
+**Improvement:** Change the current search tool to include instructor's name as a search keyword. 
+
+
+
+## Non-Functional Requirement
+
+(Performance) Users should get the result of a search fast.
+
+**Improvement**: Make sure courses related information are stored appropriately in a database, so we can get information from database quickly.
+
+
 
 
 # CARTE Education Pathways

@@ -3,7 +3,7 @@ Yuhang Yan
 This repo is a clone of https://github.com/nelaturuk/education_pathways
 
 
-ECE444-F2021-Lab3/pictures/act1.jpg
+![alt text](https://github.com/Hoowolf/ECE444-F2021-Lab3/blob/main/pictures/act1.jpg)
 
 
 ## Functional Requirement

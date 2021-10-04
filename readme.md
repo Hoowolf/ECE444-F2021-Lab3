@@ -2,8 +2,19 @@ Yuhang Yan
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways
 
-
+## Activity 1
 ![alt text](https://github.com/Hoowolf/ECE444-F2021-Lab3/blob/main/pictures/act1.jpg)
+
+## Activity 2
+![alt text](https://github.com/Hoowolf/ECE444-F2021-Lab3/blob/main/pictures/act2.jpg)
+
+## Activity 3
+![alt text](https://github.com/Hoowolf/ECE444-F2021-Lab3/blob/main/pictures/act3.jpg)
+
+## Activity 4
+![alt text](https://github.com/Hoowolf/ECE444-F2021-Lab3/blob/main/pictures/act41.jpg)
+
+![alt text](https://github.com/Hoowolf/ECE444-F2021-Lab3/blob/main/pictures/act42.jpg)
 
 
 ## Functional Requirement
